@@ -1,3 +1,5 @@
+# NOTE - DO NOT USE THE BRANCH VERSION, USE ONE OF THE RELEASES.
+
 # CHANGELOG for 0.3
 # - Bug fixes
 # - Full on mod opening functionality
